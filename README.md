@@ -6,6 +6,8 @@ This is a page for learning resources and small projects
 <!--
 **jmt-analytics/jmt-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Markdown cheat sheet: https://www.markdownguide.org/cheat-sheet/
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
